@@ -13,11 +13,11 @@
 ⚙ git / postgresql  
 
 **vision**  
-✷ build the future
+✷ build the future**
 ✷ create tools for everyone's freedom  
 
 **life**  
-sport · discipline · self-care  
+✷ sport · discipline · self-care  
 
 **quote**  
-“God gave me the power to do His work.”
+✷ “God gave me the power to do His work.”
