@@ -1,9 +1,9 @@
 **0x11semprez (smart contract & devops engineer — in progress)**
 
 **now**  
-✷ defi / protocol builder  
-✷ devops (docker, k8s, git)  
-✷ finance & markets lover  
+⚙ defi / protocol builder  
+⚙ devops (docker, k8s, git)  
+⚙ finance & markets lover  
 
 **stack**  
 ⚙ rust  
