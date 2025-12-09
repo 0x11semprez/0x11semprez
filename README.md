@@ -2,14 +2,14 @@
 
 **now**  
 ⚙ defi / protocol builder  
-⚙ devops (docker, k8s, git)  
+⚙ cloud (docker, AWS, k8s, git)  
 ⚙ finance & markets lover  
 
 **stack**  
 ⚙ rust  
 ⚙ solidity / huff / yul  
 ⚙ python / bash  
-⚙ docker / kubernetes  
+⚙ docker / kubernetes / AWS
 ⚙ git / postgresql  
 
 **vision**  
