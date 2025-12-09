@@ -1,4 +1,4 @@
-**0x11semprez (smart contract & devops engineer — in progress)**
+**0x11semprez (smart contract & cloud engineer — in progress)**
 
 **now**  
 ⚙ defi / protocol builder  
