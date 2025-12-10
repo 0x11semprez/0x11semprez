@@ -1,23 +1,34 @@
-**0x11semprez (smart contract & cloud engineer — in progress)**
+## **0x11semprez**  
+**smart contract & cloud engineer — in progress**
 
-**now**  
+<br>
+
+### **now**  
 ⚙ defi / protocol builder  
 ⚙ cloud (docker, AWS, k8s, git)  
 ⚙ finance & markets lover  
 
-**stack**  
+<br>
+
+### **stack**  
 ⚙ rust  
 ⚙ solidity / huff / yul  
 ⚙ python / bash  
-⚙ docker / kubernetes␣␣
+⚙ docker / AWS / kubernetes  
 ⚙ git / postgresql  
 
-**vision**  
-⚙ build the future
+<br>
+
+### **vision**  
+⚙ build the future  
 ⚙ create tools for everyone's freedom  
 
-**life**  
+<br>
+
+### **life**  
 ⚙ sport · discipline · self-care  
 
-**quote**  
-⚙ “God gave me the power to do His work.”
+<br>
+
+### **quote**  
+⚙ *“God gave me the power to do His work.”*
