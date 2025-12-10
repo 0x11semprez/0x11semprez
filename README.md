@@ -9,7 +9,7 @@
 ⚙ rust  
 ⚙ solidity / huff / yul  
 ⚙ python / bash  
-⚙ docker / kubernetes / AWS
+⚙ docker / aws / kubernetes 
 ⚙ git / postgresql  
 
 **vision**  
