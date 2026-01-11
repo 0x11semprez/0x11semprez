@@ -1,18 +1,20 @@
-# hft trading systems engineer — in progress
+┌⟁⟁⟁┐
+ hft trading systems engineer — in progress
+└⟁⟁⟁┘
 
-# now 
-⚙ high-frequency trading systems
-⚙ smart contracts
-⚙ low-latency backend & infrastructure
+⟐ now
+  ⚙ high-frequency trading systems
+  ⚙ smart contract engineering
+  ⚙ low-latency backend & infrastructure
 
-# stack
-⚙ rust
-⚙ solidity / huff / yul
-⚙ python 
-⚙ git · postgresql
+⟐ stack
+  ⚙ rust
+  ⚙ solidity / huff / yul
+  ⚙ python
+  ⚙ git · postgresql
 
-# life
-⚙ sport · discipline · self-care
+⟐ life
+  ⚙ sport · discipline · self-care
 
-# quote
-⚙ “God gave me the power to do His work.”
+⟐ quote
+  ⚙ *“God gave me the power to do His work.”*
