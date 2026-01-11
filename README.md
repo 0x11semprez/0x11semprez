@@ -1,23 +1,18 @@
-**smart contract & cloud engineer — in progress**
+hft trading systems engineer — in progress
 
-**now**  
-⚙ defi / protocol builder  
-⚙ cloud (docker, AWS, k8s, git)  
-⚙ finance & markets lover  
+now
+⚙ high-frequency trading systems
+⚙ smart contracts
+⚙ low-latency backend & infrastructure
 
-**stack**  
-⚙ rust  
-⚙ solidity / huff / yul  
-⚙ python / bash  
-⚙ docker / AWS / kubernetes  
-⚙ git / postgresql  
+stack
+⚙ rust
+⚙ solidity / huff / yul
+⚙ python 
+⚙ git · postgresql
 
-**vision**  
-⚙ build the future  
-⚙ create tools for everyone's freedom  
+life
+⚙ sport · discipline · self-care
 
-**life**  
-⚙ sport · discipline · self-care  
-
-**quote**  
-⚙ *“God gave me the power to do His work.”*
+quote
+⚙ “God gave me the power to do His work.”
