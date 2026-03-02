@@ -1,16 +1,22 @@
-## Hi there 👋
+┌⟁⟁⟁┐
+### solutions architect · zk developer — in progress
+└⟁⟁⟁┘
 
-<!--
-**0x11semprez/0x11semprez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⟐ now
+  ⚙ cloud-native architecture & distributed systems  
+  ⚙ zero-knowledge proof engineering  
+  ⚙ smart contract development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⟐ stack
+  ⚙ go · rust  
+  ⚙ noir · solidity · huff · yul  
+  ⚙ python  
+  ⚙ docker · git · postgresql · mongodb  
+
+### ⟐ life
+  ⚙ sport · discipline · self-care  
+
+### ⟐ quote
+  ⚙ *"God gave me the power to do His work."*
