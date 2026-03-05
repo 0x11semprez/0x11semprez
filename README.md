@@ -10,7 +10,7 @@
   ⚙ smart contract development  
 
 ### ⟐ stack
-  ⚙ go · rust  
+  ⚙ rust  
   ⚙ noir · solidity · huff · yul  
   ⚙ python  
   ⚙ docker · git · postgresql · mongodb  
