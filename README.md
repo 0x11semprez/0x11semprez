@@ -15,4 +15,3 @@
   ⚙ sport · discipline · self-care  
 ### ⟐ quote
   ⚙ *"God gave me the power to do His work."*
- tu peux le mettre ici ?
