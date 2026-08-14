@@ -4,4 +4,3 @@ semprez is everywhere.</br>
 </br>
 software engineer</br>
 4 core areas of semprez: finance, cloud, audio, defense </br>
-</br>
