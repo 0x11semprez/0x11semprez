@@ -3,6 +3,5 @@ semprez loves y'all.</br>
 semprez is everywhere.</br>
 </br>
 software engineer</br>
-cloud • distributed systems • blockchain</br>
+4 core areas of semprez: finance, cloud, audio, defense </br>
 </br>
-<a href="https://traoresemprez.xyz">traoresemprez.xyz</a>
