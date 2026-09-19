@@ -1,6 +1,9 @@
-semprez doesn't have much to say.</br>
-semprez loves y'all.</br>
-semprez is everywhere.</br>
-</br>
-software engineer</br>
-4 core areas of semprez: finance, cloud, audio, defense </br>
+**semprez** doesn't have much to say. **semprez** loves y'all.
+**semprez** is a software engineer.
+**semprez**'s favorite sentence is: *"All comes with a cost."*
+
+Open to **software engineering, DevOps, and C++ roles** in **cloud, audio, or finance**.
+
+https://traoresemprez.xyz
+
+
